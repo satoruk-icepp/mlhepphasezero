@@ -3,6 +3,7 @@ import sys
 import pandas as pd
 import numpy as np
 
+
 def main():
     # print command line arguments
     input_dir, output_dir = sys.argv[1:]
